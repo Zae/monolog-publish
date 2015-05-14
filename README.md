@@ -1,9 +1,9 @@
 # monolog-publish
 
-[![Latest Version](https://img.shields.io/github/release/zae/monolog-publish.svg?style=flat-square)](https://github.com/zae/monolog-publish/releases)
+[![Latest Version](https://img.shields.io/github/release/Zae/monolog-publish.svg?style=flat-square)](https://github.com/Zae/monolog-publish/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/Zae/monolog-publish/master.svg?style=flat-square)](https://travis-ci.org/Zae/monolog-publish)
-[![Total Downloads](https://img.shields.io/packagist/dt/zae/monolog-publish.svg?style=flat-square)](https://packagist.org/packages/zae/monolog-publish)
+[![Total Downloads](https://img.shields.io/packagist/dt/Zae/monolog-publish.svg?style=flat-square)](https://packagist.org/packages/Zae/monolog-publish)
 
 A simple Monolog handler that can be used to 'publish' the errors to a subscriber.
 
