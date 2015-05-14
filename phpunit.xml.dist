@@ -2,7 +2,7 @@
 
 <phpunit colors="true">
     <testsuites>
-        <testsuite name="Zae\Monolog\Publish Test Suite">
+        <testsuite name="Zae\Monolog\Publish Test Suite" bootstrap="tests/PHPUnit/bootstrap.php">
             <directory>tests/PHPUnit/</directory>
         </testsuite>
     </testsuites>
